@@ -1,7 +1,5 @@
 # Sudoku Solver
 
-![Sudoku Solver](https://github.com/roguetitan1703/Sudoku_solver/blob/main/sudoku_static/sudoku_solver.png)
-
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
